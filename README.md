@@ -24,5 +24,5 @@ For this project, I used [Expo's official tutorial](https://docs.expo.dev/tutori
 
 The code is commented to make it easier to follow along with what is being done.
 
-Link to the website: [Beyond-the-Browser](/)
+Link to the website: [Beyond-the-Browser](https://nonnimaeju5.github.io/React-Native-Expo-Project-/)
 
